@@ -11,4 +11,4 @@ wheels/
 
 # Manual ignore
 game_state.jsonl
-
+game_events.jsonl
